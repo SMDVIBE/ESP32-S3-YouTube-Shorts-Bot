@@ -77,7 +77,7 @@ This project is intended for learning and personal experimentation. Follow YouTu
 
 Add your YouTube Shorts URL here:
 
-`[https://www.youtube.com/shorts/YOUR_VIDEO_ID](https://youtube.com/shorts/g4GjuUn54Zc)`
+https://youtube.com/shorts/g4GjuUn54Zc
 
 ## GitHub topics
 
