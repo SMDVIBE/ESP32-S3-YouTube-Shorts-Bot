@@ -7,11 +7,7 @@ A DIY electronics experiment by **SMD VIBE**: an ESP32-S3 development board with
 ## Project photos
 
 **Full setup**
-
 ![ESP32-S3 YouTube Shorts Bot full setup](docs/shorts-bot-full-setup.jpg)
-
-**Hardware close-up**
-
 ![ESP32-S3 board and TFT dashboard](docs/shorts-bot-hardware-closeup.jpg)
 
 ## Features
