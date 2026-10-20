@@ -61,14 +61,6 @@ USB HID support depends on the installed ESP32 Arduino core version and USB conf
 
 The ESP32-S3 draws the interface on the TFT and sends USB HID input reports according to the sketch's action sequence. The display reports the simulated action and counts commands sent by the device. Smartphone behaviour can vary with the phone, Android version, USB adapter, and app version.
 
-## Troubleshooting
-
-- **Blank display:** Check power, backlight, SPI wiring, rotation, and GPIO definitions.
-- **Incorrect orientation or colors:** Check ST7789 initialization and rotation settings.
-- **Visible flicker:** The sketch uses partial updates, but display power, backlight, and hardware can also affect flicker.
-- **USB HID compile errors:** Check the installed Espressif ESP32 core version and USB API compatibility.
-- **Phone does not respond:** Verify USB OTG/host support and use a data-capable cable or adapter.
-
 ## Responsible use
 
 This project is intended for learning and personal experimentation. Follow YouTube's terms and the rules of any platform you use. Do not use automation to manipulate engagement metrics, spam interactions, or interfere with other users.
